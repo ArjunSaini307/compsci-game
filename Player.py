@@ -1,1 +1,2 @@
-for i in range(1,12);
+class Game:
+  def 
